@@ -1,7 +1,7 @@
 import React from 'react'
 
 /**
-  comentarios sobre esto
+  comentarios sobre esto segunda vez
 **/
 
 function Home():
